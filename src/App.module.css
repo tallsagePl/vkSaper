@@ -1,0 +1,13 @@
+.App {
+	margin: 0 auto;
+	padding: 2rem;
+}
+
+.mine {
+	margin: auto;
+	border: outset 4px;
+	background-color: rgb(189, 189, 189);
+	padding: 15px;
+	height: 640px;
+	width: 520px;
+}

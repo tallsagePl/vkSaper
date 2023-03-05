@@ -1,0 +1,11 @@
+.mineBody {
+	margin: auto;
+	margin-top: 15px;
+	border: inset 4px;
+	background-color: rgb(189, 189, 189);
+	height: 510px;
+}
+
+.field {
+	display: flex;
+}

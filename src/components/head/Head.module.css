@@ -1,0 +1,9 @@
+.mineHead {
+	border: inset 4px;
+	background-color: rgb(189, 189, 189);
+	height: 70px;
+	padding: 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
